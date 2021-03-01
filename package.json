@@ -1,0 +1,23 @@
+{
+  "name": "project_nextjs-versel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoAlexandro/project_nextjs-versel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiogoAlexandro/project_nextjs-versel/issues"
+  },
+  "homepage": "https://github.com/DiogoAlexandro/project_nextjs-versel#readme",
+  "dependencies": {
+    "next": "^10.0.7"
+  }
+}
